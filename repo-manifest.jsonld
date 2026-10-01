@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Cognition-Labs/BioConceptXplorer/commit/60ed4299ea429195a0a049e24250650dc0086c20",
       "git:hexsha": "60ed4299ea429195a0a049e24250650dc0086c20",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
